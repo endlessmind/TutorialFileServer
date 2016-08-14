@@ -1,0 +1,15 @@
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\bin\Debug\TutorialFileServer.exe
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\bin\Debug\TutorialFileServer.pdb
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\TutorialFileServer.csprojResolveAssemblyReference.cache
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\MainWindow.g.cs
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\App.g.cs
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\TutorialFileServer_MarkupCompile.cache
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\TutorialFileServer_MarkupCompile.lref
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\MainWindow.baml
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\TutorialFileServer.g.resources
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\TutorialFileServer.Properties.Resources.resources
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\TutorialFileServer.csproj.GenerateResource.Cache
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\TutorialFileServer.exe
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\obj\Debug\TutorialFileServer.pdb
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\bin\Debug\Newtonsoft.Json.dll
+c:\users\endle\documents\visual studio 2015\Projects\TutorialFileServer\TutorialFileServer\bin\Debug\Newtonsoft.Json.xml
